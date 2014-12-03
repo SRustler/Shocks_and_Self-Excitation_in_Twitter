@@ -1,11 +1,10 @@
-"Shocks and Self-Excitation in Twitter -
-========================================
-Response Function Characterization in Epidemic Processes in Social Media"
+"Shocks and Self-Excitation in Twitter - Response Function Characterization in Epidemic Processes in Social Media"
 ========================================================================
 *Master-Thesis for the Degree of "Master of Science ETH in Physics"
 ETH Zurich, Switzerland. November, 2014.*
 
 Abstract
+
 This work aims to pave the way towards applying the self-excited Hawkes model on Twitter
 messaging, more concretely on the epidemic process of tweets triggering re-tweets for a
 certain topic or hashtag. One of the key ingredients of the Hawkes model is the response
@@ -42,5 +41,7 @@ centrally organized protest with constant criticality across all phases.
 The results of this work show that a larger-scale analysis with more hashtags is necessary
 in order to more robustly determine hashtag classes and response functions and thus be
 able to calibrate the Hawkes model on Twitter data for a higher predictive power.
+
+
 Key words: Self-excited Hawkes process, renormalized memory kernel, anomalous
 scaling, social epidemics.
